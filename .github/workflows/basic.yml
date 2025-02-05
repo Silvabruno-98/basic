@@ -18,4 +18,4 @@ jobs:
       - name: Step two of job2
         run: pwd
       - name: Step3
-        run: ls -la
+        run: dir
